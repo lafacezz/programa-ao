@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Spice&display=swap');
+
+h1 ~{
+    color:darkgreen;
+    font-family: "Bungee Spice";
+    font-size: 100px;
+}
